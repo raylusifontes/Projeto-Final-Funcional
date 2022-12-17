@@ -1,0 +1,111 @@
+.container-table{
+    background-color: #E7DAD1;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.container-update{
+    background-color: #E7DAD1;
+    margin-left: 50px;
+    margin-right: 50px;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    width: 30%;
+    margin-left: 30%;
+}
+.titulo{
+    font-size: 300%;
+    color:#845046 ;
+    background-color: white;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+.titulo-form{
+    font-size: 300%;
+    color:#845046 ;
+    background-color: white;
+    margin-bottom: 20px;
+}
+.center{
+    width: 600px;
+    display: flex;
+    flex-direction: column;
+    margin-left: 25%;
+    margin-top: 1%;
+    background-color: #E7DAD1;
+}
+.center input{
+    background-color: white;
+}
+.center select{
+    background-color: white;
+}
+.geral-a {
+    display: block;
+    margin-left: 30%;
+}
+.geral-a button {
+    margin-top: 5%;
+    display: inline;
+    margin-bottom: 8px;
+    font-size: 24px;
+    margin-left: 12px;
+    color: #ffff;
+    background-color: #845046;
+    justify-content: center;
+    border-radius: 20%;
+    text-align: center;
+    margin-left: 7%;    
+}
+.geral-a button:hover{
+  background-color: #DBBB7C;   
+}
+.geral-a input {
+    background-color: #FFF;
+    box-shadow: 10px 10px 30px rgba(0, 0, 0, 0.06);
+    width: 50%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+    border-radius: 20%;
+}
+.op{
+    background-color: #FFF;
+    width: 50%;
+    border: none;
+    font-size: 24px;
+    padding: 24px;
+    box-sizing: border-box;
+    border-radius: 20%;
+    text-transform: uppercase;
+}
+.container-table{
+    width: 90%;
+    margin-top: 3%;
+    margin-left: 5%;
+}
+.link{
+    border: solid 2px black;
+    background-color: #e3bab2;
+    text-decoration: none;
+    padding: 3px;
+    color: black;
+    padding-top: 2px;
+    padding-bottom: 3.5px;
+}
+.opcoes{
+    display: flex;
+}
+.op2{
+    margin-left: 40px;
+    background-color:#e3bab2;
+    color:black;
+    padding-bottom: 2px;
+}
+.op2:hover{
+    color: blue;
+}
+.negrita{
+    font-weight: bold;
+}
